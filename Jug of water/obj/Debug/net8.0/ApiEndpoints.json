@@ -1,0 +1,141 @@
+[
+  {
+    "ContainingType": "Jug_of_water.Controllers.Jugswater",
+    "Method": "SolucionJarras",
+    "RelativePath": "api/Jugswater",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "X",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Y",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Z",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Jug_of_water.Controllers.Jugswater\u002BSecuencia, Jug of water, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Jug_of_water.Controllers.Jugswater",
+    "Method": "MaximoComunDivisor",
+    "RelativePath": "api/Jugswater",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "b",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Jug_of_water.Controllers.Jugswater",
+    "Method": "EleccionDeJarra",
+    "RelativePath": "api/Jugswater",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "X",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Y",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Z",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Jug_of_water.Controllers.Jugswater",
+    "Method": "Resultado",
+    "RelativePath": "api/Jugswater/resultado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "capacidad",
+        "Type": "Jug_of_water.Controllers.Jugswater\u002BJarrasCapacidad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jug_of_water.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Jug_of_water.WeatherForecast, Jug of water, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

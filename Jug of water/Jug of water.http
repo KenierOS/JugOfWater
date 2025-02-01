@@ -1,0 +1,6 @@
+@Jug_of_water_HostAddress = http://localhost:5271
+
+GET {{Jug_of_water_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

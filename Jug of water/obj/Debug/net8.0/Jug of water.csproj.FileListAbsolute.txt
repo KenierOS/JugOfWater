@@ -1,0 +1,29 @@
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\appsettings.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.staticwebassets.endpoints.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.exe
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.deps.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.runtimeconfig.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.dll
+C:\Users\kenie\source\repos\Jug of water\Jug of water\bin\Debug\net8.0\Jug of water.pdb
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.AssemblyInfoInputs.cache
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.AssemblyInfo.cs
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.csproj.CoreCompileInputs.cache
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\scopedcss\bundle\Jug of water.styles.css
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets\msbuild.Jug of water.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets\msbuild.Jug of water.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets\msbuild.build.Jug of water.props
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jug of water.props
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jug of water.props
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.dll
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\refint\Jug of water.dll
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.pdb
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\Jug of water.genruntimeconfig.cache
+C:\Users\kenie\source\repos\Jug of water\Jug of water\obj\Debug\net8.0\ref\Jug of water.dll

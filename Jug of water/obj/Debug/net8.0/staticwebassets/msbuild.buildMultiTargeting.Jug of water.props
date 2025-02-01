@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jug of water.props" />
+</Project>
